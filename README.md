@@ -28,6 +28,4 @@ This Java program creates a basic text editor with functionalities to open, save
 - Java Development Kit (JDK)
 - Any Java IDE or Text Editor (Optional)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
